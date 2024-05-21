@@ -106,6 +106,7 @@ function loadPokemonById(pokemon) {
                 </tr>
             </table>
         </li>
+        <a href="/" class="btn-home">Voltar</a>
     `
 }
 
